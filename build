@@ -1,0 +1,5 @@
+// build
+docker build -t ml_similar_product .
+
+// run
+docker run --name ml_similar_product -d -it -p 7999:7999 ml_similar_product
