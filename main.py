@@ -5,11 +5,26 @@ from fastapi import FastAPI, Depends
 from amazon_product import amazon_service
 from news import news_service
 
-
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
 
+origins = [
+    "https://localhost.com",
+    "http://localhost",
+    "http://localhost:3000",
+    "http://61.19.242.56",
+    "http://61.19.242.56:7997",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/")
 def read_root():
