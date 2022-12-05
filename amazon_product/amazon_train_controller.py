@@ -14,5 +14,5 @@ amazon_train_service = AmazonTrainService()
 def get_size():
 
     return {
-        "message": "ok"
+        "message": amazon_train_service.hello()
     }

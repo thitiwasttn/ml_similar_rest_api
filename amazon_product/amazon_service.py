@@ -20,6 +20,7 @@ logging.basicConfig(
     ]
 )
 
+
 class AmazonService(BaseModel):
     abc = ''
     df: pd.DataFrame = None
@@ -62,5 +63,3 @@ class AmazonService(BaseModel):
     def get_index(self, product_id):
         ref_index = self.df[self.df['Uniq Id'].str.contains(product_id, case=False)].index[0]
         return ref_index
-
-
