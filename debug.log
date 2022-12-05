@@ -54,3 +54,12 @@
 2022-12-05 21:36:42,113 [INFO] reload
 2022-12-05 21:36:55,237 [INFO] reload
 2022-12-05 21:37:27,578 [INFO] reload
+2022-12-05 21:38:49,850 [INFO] reload
+2022-12-05 21:39:53,597 [INFO] train
+2022-12-05 21:39:53,597 [INFO] self.file_location {} amazon_product/file/sample_product.csv
+2022-12-05 21:40:21,070 [INFO] train
+2022-12-05 21:40:21,070 [INFO] self.file_location {} amazon_product/file/sample_product.csv
+2022-12-05 21:40:29,177 [INFO] reload
+2022-12-05 21:41:18,880 [INFO] train
+2022-12-05 21:41:18,880 [INFO] self.file_location {} amazon_product/file/sample_product.csv
+2022-12-05 21:41:26,440 [INFO] reload
