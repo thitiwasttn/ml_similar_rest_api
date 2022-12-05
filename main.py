@@ -1,10 +1,9 @@
 from typing import Union
 
-from fastapi import FastAPI, Depends
+from fastapi import FastAPI
 
-from amazon_product import amazon_controller
+from amazon_product.controller import amazon_controller, amazon_train_controller
 from news import news_service
-from amazon_product import amazon_train_controller
 
 from fastapi.middleware.cors import CORSMiddleware
 
