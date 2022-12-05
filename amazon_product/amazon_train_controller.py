@@ -1,5 +1,7 @@
 from fastapi import APIRouter
 
+from amazon_product.amazon_train_service import AmazonTrainService
+
 router = APIRouter(
     prefix="/amazon",
     tags=['Coffee'],
@@ -7,6 +9,7 @@ router = APIRouter(
 )
 
 
+amazon_train_service = AmazonTrainService()
 @router.get('/train')
 def get_size():
 
