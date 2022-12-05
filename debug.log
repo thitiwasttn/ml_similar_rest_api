@@ -18,3 +18,39 @@
 2022-12-05 21:17:11,266 [INFO] reload
 2022-12-05 21:17:38,544 [INFO] reload
 2022-12-05 21:19:07,791 [INFO] reload
+2022-12-05 21:22:50,744 [INFO] reload
+2022-12-05 21:22:59,934 [INFO] train
+2022-12-05 21:24:13,961 [INFO] reload
+2022-12-05 21:25:19,943 [INFO] reload
+2022-12-05 21:25:59,879 [INFO] reload
+2022-12-05 21:26:08,551 [INFO] train
+2022-12-05 21:27:08,670 [INFO] reload
+2022-12-05 21:27:15,431 [INFO] reload
+2022-12-05 21:27:25,766 [INFO] train
+2022-12-05 21:27:28,472 [INFO] train
+2022-12-05 21:28:21,315 [INFO] reload
+2022-12-05 21:28:30,500 [INFO] train
+2022-12-05 21:28:47,086 [INFO] reload
+2022-12-05 21:28:56,062 [INFO] train
+2022-12-05 21:28:56,062 [INFO] self.file_location {}../file/temp_new_file_to_train/sample_product.csv
+2022-12-05 21:31:11,733 [INFO] reload
+2022-12-05 21:32:24,276 [INFO] reload
+2022-12-05 21:33:13,952 [INFO] reload
+2022-12-05 21:33:27,493 [INFO] train
+2022-12-05 21:33:27,493 [INFO] self.file_location {} ../file/temp_new_file_to_train/sample_product.csv
+2022-12-05 21:33:40,174 [INFO] reload
+2022-12-05 21:34:09,042 [INFO] reload
+2022-12-05 21:34:18,609 [INFO] train
+2022-12-05 21:34:18,609 [INFO] self.file_location {} ../file/temp_new_file_to_train/sample_product.csv
+2022-12-05 21:34:20,880 [INFO] train
+2022-12-05 21:34:20,880 [INFO] self.file_location {} ../file/temp_new_file_to_train/sample_product.csv
+2022-12-05 21:35:06,618 [INFO] reload
+2022-12-05 21:35:17,702 [INFO] train
+2022-12-05 21:35:17,702 [INFO] self.file_location {} amazon_product/file/temp_new_file_to_train/sample_product.csv
+2022-12-05 21:36:02,512 [INFO] reload
+2022-12-05 21:36:16,446 [INFO] reload
+2022-12-05 21:36:19,869 [INFO] reload
+2022-12-05 21:36:25,144 [INFO] reload
+2022-12-05 21:36:42,113 [INFO] reload
+2022-12-05 21:36:55,237 [INFO] reload
+2022-12-05 21:37:27,578 [INFO] reload

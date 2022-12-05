@@ -13,6 +13,7 @@ amazon_train_service = AmazonTrainService()
 
 @router.get('/train')
 def get_size():
+    amazon_train_service.train_model()
     return {
-        "message": amazon_train_service.hello()
+        "message": "ok"
     }

@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 
-class AmazonService(BaseModel):
+class AmazonService():
     abc = ''
     df: pd.DataFrame = None
     A_sparse = []
